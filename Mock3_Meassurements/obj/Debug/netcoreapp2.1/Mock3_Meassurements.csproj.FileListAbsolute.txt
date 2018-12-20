@@ -1,0 +1,14 @@
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\bin\Debug\netcoreapp2.1\Mock3_Meassurements.deps.json
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\bin\Debug\netcoreapp2.1\Mock3_Meassurements.runtimeconfig.json
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\bin\Debug\netcoreapp2.1\Mock3_Meassurements.runtimeconfig.dev.json
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\bin\Debug\netcoreapp2.1\Mock3_Meassurements.dll
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.csprojAssemblyReference.cache
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.csproj.CoreCompileInputs.cache
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.RazorAssemblyInfo.cache
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.RazorAssemblyInfo.cs
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.AssemblyInfoInputs.cache
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.AssemblyInfo.cs
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.RazorTargetAssemblyInfo.cache
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\bin\Debug\netcoreapp2.1\Mock3_Meassurements.pdb
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.dll
+C:\Users\Arlin\source\repos\Mock3_Meassurements\Mock3_Meassurements\obj\Debug\netcoreapp2.1\Mock3_Meassurements.pdb
